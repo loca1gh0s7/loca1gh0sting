@@ -8,3 +8,5 @@ Then to be mean to blue, we timestomp it really hard by settings systemtime to d
 Now, beware, every user that is added normally after this "patch" will not work.
 
 I am not responsible for you rendering your box (or anyone elses) useless because you don't understand what this does.
+
+https://twitter.com/loca1GH0ST (@loca1GH0ST)
